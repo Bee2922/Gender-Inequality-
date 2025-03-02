@@ -1,1 +1,2 @@
-# Gender-Inequality-
+Gender-Inequality
+This project was carried out using Daikibo Company's dataset.  The goal was to determine whether gender equality or inequality existed in the company based on monthly salary for both genders.  After analysing the data, it was discovered that gender inequality exists in Daikibo, with male counterparts earning higher salaries than female counterparts.  To achieve a more equitable salary structure, I grouped the dataset was divided into three categories, and I proposed a percentage increase for each group that appears to be reasonable in light of the large salary gap.  In order to analyse this dataset, I used functions such as Xlookup, Proper, and IF statement, among others.
